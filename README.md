@@ -2,7 +2,7 @@
 
 -I’m currently working in manufacturing industry and parallely learning coding.
 
--For the time being I am interested in learnin mainly sql and python.
+-For the time being I am interested in learning sql and python.
 
 -I am new here, currently exploring and figuring out how to use this platform.
 
